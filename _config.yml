@@ -1,10 +1,10 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
+name: 구름구름 # 웹 사이트 제목
+description: coding note # 설명 
+email: yu-ri-@naver.com # 메일 누르면 연결될 이메일
 author: author
-lang: en
-locale: en_US
+lang: ko
+locale: ko-KR
 
 # Jekyll
 paginate: 10
